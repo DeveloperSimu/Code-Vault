@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "c": "cmd /c call \"$workspaceRoot\\.vscode\\run-c.bat\" $fullFileName"
+    },
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.ignoreSelection": true
+}
