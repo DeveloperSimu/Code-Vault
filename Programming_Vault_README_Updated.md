@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-Complete-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Coming%20Soon-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Complete-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Coming%20Soon-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-Coming%20Soon-8B5CF6?style=for-the-badge" />
 </p>
@@ -53,7 +53,23 @@ Programming Vault
 │   └── 12_More_C_Programs
 │
 ├── 🟡 Python
-│   └── Coming Soon...
+│   ├── 01_Basics
+│   ├── 02_Control_Flow
+│   ├── 03_Functions
+│   ├── 04_Lists_Tuples_Sets_Dictionaries
+│   ├── 05_Strings
+│   ├── 06_Object_Oriented_Programming
+│   ├── 07_Exception_Handling
+│   ├── 08_File_Handling
+│   ├── 09_Modules_and_Packages
+│   ├── 10_Built_in_Modules
+│   ├── 11_Regular_Expressions
+│   ├── 12_Data_Structures
+│   ├── 13_Algorithms
+│   ├── 14_Database
+│   ├── 15_Automation
+│   ├── 16_API_and_JSON
+│   └── 17_Mini_Projects
 │
 ├── 🟣 Data Structures
 │   └── Coming Soon...
@@ -343,9 +359,9 @@ My complete collection of C programming practice programs is organized into **12
 
 # 🟡 Python
 
-> **Status: 🚧 Coming Soon**
+> **Status: ✅ Complete**
 
-Python programs, practice problems, automation, OOP, modules, file handling, libraries, and more will be added here.
+My complete collection of Python programming practice, problem-solving, OOP, file handling, modules, regular expressions, data structures, algorithms, databases, automation, APIs, JSON, and mini projects is organized into **17 structured categories**.
 
 ```text
 Python
@@ -355,17 +371,45 @@ Python
 ├── 03_Functions
 ├── 04_Lists_Tuples_Sets_Dictionaries
 ├── 05_Strings
-├── 06_OOP
-├── 07_File_Handling
-├── 08_Modules_and_Packages
-├── 09_Exception_Handling
-├── 10_Algorithms
-└── 11_More_Python_Programs
+├── 06_Object_Oriented_Programming
+├── 07_Exception_Handling
+├── 08_File_Handling
+├── 09_Modules_and_Packages
+├── 10_Built_in_Modules
+├── 11_Regular_Expressions
+├── 12_Data_Structures
+├── 13_Algorithms
+├── 14_Database
+├── 15_Automation
+├── 16_API_and_JSON
+└── 17_Mini_Projects
 ```
 
-**Status:** ⏳ Yet to be added
+### 📚 Python Categories
 
----
+| # | Category | Status |
+|---|----------|:------:|
+| 01 | Basics | ✅ Complete |
+| 02 | Control Flow | ✅ Complete |
+| 03 | Functions | ✅ Complete |
+| 04 | Lists, Tuples, Sets & Dictionaries | ✅ Complete |
+| 05 | Strings | ✅ Complete |
+| 06 | Object Oriented Programming | ✅ Complete |
+| 07 | Exception Handling | ✅ Complete |
+| 08 | File Handling | ✅ Complete |
+| 09 | Modules and Packages | ✅ Complete |
+| 10 | Built-in Modules | ✅ Complete |
+| 11 | Regular Expressions | ✅ Complete |
+| 12 | Data Structures | ✅ Complete |
+| 13 | Algorithms | ✅ Complete |
+| 14 | Database | ✅ Complete |
+| 15 | Automation | ✅ Complete |
+| 16 | API and JSON | ✅ Complete |
+| 17 | Mini Projects | ✅ Complete |
+
+**Total: 17 categories**
+
+**Status:** ✅ Complete
 
 # 🧠 Data Structures
 
@@ -450,7 +494,7 @@ Possible future sections:
 | Section            |     Status    |
 | ------------------ | :-----------: |
 | 🔵 C Language      |   ✅ Complete  |
-| 🟡 Python          | ⏳ Coming Soon |
+| 🟡 Python          |   ✅ Complete  |
 | 🟣 Data Structures | ⏳ Coming Soon |
 | 🟠 Java            | ⏳ Coming Soon |
 | 🔴 C++             |   🔮 Planned  |
@@ -544,11 +588,13 @@ Programming Fundamentals
         ↓
 C Programming
         ↓
+Python
+        ↓
 Data Structures
         ↓
 Algorithms
         ↓
-Python / Java
+Java
         ↓
 Advanced Development
         ↓
